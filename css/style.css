@@ -30,6 +30,7 @@ html{
     height: 60px;
     margin: 7px 8px;
     padding-bottom: 16px;
+    filter: invert(1);
 }
 
 #navbar::before{
